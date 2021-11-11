@@ -1,0 +1,14 @@
+C:\Users\nmercado\Documents\c#\Patrones-Composite\Patrones-Composite\bin\Debug\netcoreapp3.1\Patrones-Composite.exe
+C:\Users\nmercado\Documents\c#\Patrones-Composite\Patrones-Composite\bin\Debug\netcoreapp3.1\Patrones-Composite.deps.json
+C:\Users\nmercado\Documents\c#\Patrones-Composite\Patrones-Composite\bin\Debug\netcoreapp3.1\Patrones-Composite.runtimeconfig.json
+C:\Users\nmercado\Documents\c#\Patrones-Composite\Patrones-Composite\bin\Debug\netcoreapp3.1\Patrones-Composite.runtimeconfig.dev.json
+C:\Users\nmercado\Documents\c#\Patrones-Composite\Patrones-Composite\bin\Debug\netcoreapp3.1\Patrones-Composite.dll
+C:\Users\nmercado\Documents\c#\Patrones-Composite\Patrones-Composite\bin\Debug\netcoreapp3.1\Patrones-Composite.pdb
+C:\Users\nmercado\Documents\c#\Patrones-Composite\Patrones-Composite\obj\Debug\netcoreapp3.1\Patrones-Composite.csproj.AssemblyReference.cache
+C:\Users\nmercado\Documents\c#\Patrones-Composite\Patrones-Composite\obj\Debug\netcoreapp3.1\Patrones-Composite.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\nmercado\Documents\c#\Patrones-Composite\Patrones-Composite\obj\Debug\netcoreapp3.1\Patrones-Composite.AssemblyInfoInputs.cache
+C:\Users\nmercado\Documents\c#\Patrones-Composite\Patrones-Composite\obj\Debug\netcoreapp3.1\Patrones-Composite.AssemblyInfo.cs
+C:\Users\nmercado\Documents\c#\Patrones-Composite\Patrones-Composite\obj\Debug\netcoreapp3.1\Patrones-Composite.csproj.CoreCompileInputs.cache
+C:\Users\nmercado\Documents\c#\Patrones-Composite\Patrones-Composite\obj\Debug\netcoreapp3.1\Patrones-Composite.dll
+C:\Users\nmercado\Documents\c#\Patrones-Composite\Patrones-Composite\obj\Debug\netcoreapp3.1\Patrones-Composite.pdb
+C:\Users\nmercado\Documents\c#\Patrones-Composite\Patrones-Composite\obj\Debug\netcoreapp3.1\Patrones-Composite.genruntimeconfig.cache
