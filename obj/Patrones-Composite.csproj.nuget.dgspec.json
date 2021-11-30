@@ -1,24 +1,20 @@
 {
   "format": 1,
   "restore": {
-    "C:\\Users\\nmercado\\Documents\\c#\\Patrones-Composite\\Patrones-Composite\\Patrones-Composite.csproj": {}
+    "E:\\unity\\quark\\Patrones\\Patrones-Composite\\Patrones-Composite.csproj": {}
   },
   "projects": {
-    "C:\\Users\\nmercado\\Documents\\c#\\Patrones-Composite\\Patrones-Composite\\Patrones-Composite.csproj": {
+    "E:\\unity\\quark\\Patrones\\Patrones-Composite\\Patrones-Composite.csproj": {
       "version": "1.0.0",
       "restore": {
-        "projectUniqueName": "C:\\Users\\nmercado\\Documents\\c#\\Patrones-Composite\\Patrones-Composite\\Patrones-Composite.csproj",
+        "projectUniqueName": "E:\\unity\\quark\\Patrones\\Patrones-Composite\\Patrones-Composite.csproj",
         "projectName": "Patrones-Composite",
-        "projectPath": "C:\\Users\\nmercado\\Documents\\c#\\Patrones-Composite\\Patrones-Composite\\Patrones-Composite.csproj",
-        "packagesPath": "C:\\Users\\nmercado\\.nuget\\packages\\",
-        "outputPath": "C:\\Users\\nmercado\\Documents\\c#\\Patrones-Composite\\Patrones-Composite\\obj\\",
+        "projectPath": "E:\\unity\\quark\\Patrones\\Patrones-Composite\\Patrones-Composite.csproj",
+        "packagesPath": "C:\\Users\\Corvo\\.nuget\\packages\\",
+        "outputPath": "E:\\unity\\quark\\Patrones\\Patrones-Composite\\obj\\",
         "projectStyle": "PackageReference",
-        "fallbackFolders": [
-          "C:\\Program Files (x86)\\Microsoft Visual Studio\\Shared\\NuGetPackages"
-        ],
         "configFilePaths": [
-          "C:\\Users\\nmercado\\AppData\\Roaming\\NuGet\\NuGet.Config",
-          "C:\\Program Files (x86)\\NuGet\\Config\\Microsoft.VisualStudio.FallbackLocation.config",
+          "C:\\Users\\Corvo\\AppData\\Roaming\\NuGet\\NuGet.Config",
           "C:\\Program Files (x86)\\NuGet\\Config\\Microsoft.VisualStudio.Offline.config"
         ],
         "originalTargetFrameworks": [

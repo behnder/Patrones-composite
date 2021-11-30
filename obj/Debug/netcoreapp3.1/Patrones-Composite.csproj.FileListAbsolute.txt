@@ -12,3 +12,17 @@ C:\Users\nmercado\Documents\c#\Patrones-Composite\Patrones-Composite\obj\Debug\n
 C:\Users\nmercado\Documents\c#\Patrones-Composite\Patrones-Composite\obj\Debug\netcoreapp3.1\Patrones-Composite.dll
 C:\Users\nmercado\Documents\c#\Patrones-Composite\Patrones-Composite\obj\Debug\netcoreapp3.1\Patrones-Composite.pdb
 C:\Users\nmercado\Documents\c#\Patrones-Composite\Patrones-Composite\obj\Debug\netcoreapp3.1\Patrones-Composite.genruntimeconfig.cache
+E:\unity\quark\Patrones\Patrones-Composite\bin\Debug\netcoreapp3.1\Patrones-Composite.exe
+E:\unity\quark\Patrones\Patrones-Composite\bin\Debug\netcoreapp3.1\Patrones-Composite.deps.json
+E:\unity\quark\Patrones\Patrones-Composite\bin\Debug\netcoreapp3.1\Patrones-Composite.runtimeconfig.json
+E:\unity\quark\Patrones\Patrones-Composite\bin\Debug\netcoreapp3.1\Patrones-Composite.runtimeconfig.dev.json
+E:\unity\quark\Patrones\Patrones-Composite\bin\Debug\netcoreapp3.1\Patrones-Composite.dll
+E:\unity\quark\Patrones\Patrones-Composite\bin\Debug\netcoreapp3.1\Patrones-Composite.pdb
+E:\unity\quark\Patrones\Patrones-Composite\obj\Debug\netcoreapp3.1\Patrones-Composite.csproj.AssemblyReference.cache
+E:\unity\quark\Patrones\Patrones-Composite\obj\Debug\netcoreapp3.1\Patrones-Composite.GeneratedMSBuildEditorConfig.editorconfig
+E:\unity\quark\Patrones\Patrones-Composite\obj\Debug\netcoreapp3.1\Patrones-Composite.AssemblyInfoInputs.cache
+E:\unity\quark\Patrones\Patrones-Composite\obj\Debug\netcoreapp3.1\Patrones-Composite.AssemblyInfo.cs
+E:\unity\quark\Patrones\Patrones-Composite\obj\Debug\netcoreapp3.1\Patrones-Composite.csproj.CoreCompileInputs.cache
+E:\unity\quark\Patrones\Patrones-Composite\obj\Debug\netcoreapp3.1\Patrones-Composite.dll
+E:\unity\quark\Patrones\Patrones-Composite\obj\Debug\netcoreapp3.1\Patrones-Composite.pdb
+E:\unity\quark\Patrones\Patrones-Composite\obj\Debug\netcoreapp3.1\Patrones-Composite.genruntimeconfig.cache
